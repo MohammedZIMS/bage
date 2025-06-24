@@ -1,1 +1,1 @@
-printf("Hello everyome")
+print("Hello everyome")
